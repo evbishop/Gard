@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 5988c0f57a9030a4dbc2cd8c8657b1d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3942963066912593641
+    second: gnu-120x100_0
+  - first:
+      213: 7503701320763199509
+    second: gnu-120x100_1
+  - first:
+      213: 7812633758818531168
+    second: gnu-120x100_2
+  - first:
+      213: 2106139737486561095
+    second: gnu-120x100_3
+  - first:
+      213: 1740826795378043841
+    second: gnu-120x100_4
+  - first:
+      213: 6710510012453609964
+    second: gnu-120x100_5
+  - first:
+      213: 1013290340943532535
+    second: gnu-120x100_6
+  - first:
+      213: -514826585725313710
+    second: gnu-120x100_7
+  - first:
+      213: 1306672007837535113
+    second: gnu-120x100_8
+  - first:
+      213: 4239326465255125784
+    second: gnu-120x100_9
+  - first:
+      213: -7883355694554514309
+    second: gnu-120x100_10
+  - first:
+      213: -8998488493317711125
+    second: gnu-120x100_11
+  - first:
+      213: 1492369734812147667
+    second: gnu-120x100_12
+  - first:
+      213: -6449678900448679447
+    second: gnu-120x100_13
+  - first:
+      213: -6851935793672311635
+    second: gnu-120x100_14
+  - first:
+      213: -3839354775419561699
+    second: gnu-120x100_15
+  - first:
+      213: 5483735655444105919
+    second: gnu-120x100_16
+  - first:
+      213: 5135152303234041373
+    second: gnu-120x100_0
+  - first:
+      213: 907792813367216167
+    second: gnu-120x100_1
+  - first:
+      213: -2284194869944367414
+    second: gnu-120x100_2
+  - first:
+      213: 421626021863210697
+    second: gnu-120x100_3
+  - first:
+      213: 5406936122442761745
+    second: gnu-120x100_4
+  - first:
+      213: 6028507462390748194
+    second: gnu-120x100_5
+  - first:
+      213: 6609605132300323608
+    second: gnu-120x100_6
+  - first:
+      213: -8174698635887374493
+    second: gnu-120x100_7
+  - first:
+      213: 6320669809906698913
+    second: gnu-120x100_8
+  - first:
+      213: 6934737650692138813
+    second: gnu-120x100_9
+  - first:
+      213: -7740956801974044783
+    second: gnu-120x100_10
+  - first:
+      213: 4209427807735506884
+    second: gnu-120x100_11
+  - first:
+      213: 4550562905368239204
+    second: gnu-120x100_12
+  - first:
+      213: -4009851322648177543
+    second: gnu-120x100_13
+  - first:
+      213: -1491143598727681551
+    second: gnu-120x100_14
+  - first:
+      213: -5692195109727722542
+    second: gnu-120x100_15
+  - first:
+      213: 7298492798289773164
+    second: gnu-120x100_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gnu-120x100_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d164bc500d9b34740800000000000000
+      internalID: 5135152303234041373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnu-120x100_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 300
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728c76a01c0299c00800000000000000
+      internalID: 907792813367216167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnu-120x100_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 300
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac642333ed8ec40e0800000000000000
+      internalID: -2284194869944367414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnu-120x100_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 300
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ceb73d02aae9d500800000000000000
+      internalID: 421626021863210697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnu-120x100_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 300
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116cd6591cb490b40800000000000000
+      internalID: 5406936122442761745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnu-120x100_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224979db89f89a350800000000000000
+      internalID: 6028507462390748194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnu-120x100_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 200
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b0c5049d80abb50800000000000000
+      internalID: 6609605132300323608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnu-120x100_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 200
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f001ee6e2ad8e80800000000000000
+      internalID: -8174698635887374493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnu-120x100_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 200
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa460a24b787b750800000000000000
+      internalID: 6320669809906698913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnu-120x100_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 200
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d372808c6232d3060800000000000000
+      internalID: 6934737650692138813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnu-120x100_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19771bc4dc8929490800000000000000
+      internalID: -7740956801974044783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnu-120x100_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 100
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7e9b3e944ea6a30800000000000000
+      internalID: 4209427807735506884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnu-120x100_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 100
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c1b8e3ad8d62f30800000000000000
+      internalID: 4550562905368239204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnu-120x100_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 100
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974dc6797752a58c0800000000000000
+      internalID: -4009851322648177543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnu-120x100_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 100
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f92db02cc46e4be0800000000000000
+      internalID: -1491143598727681551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnu-120x100_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3a67cc4b24101b0800000000000000
+      internalID: -5692195109727722542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gnu-120x100_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c620fcde784794560800000000000000
+      internalID: 7298492798289773164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

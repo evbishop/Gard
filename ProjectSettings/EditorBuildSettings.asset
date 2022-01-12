@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash Screen.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Start Screen.unity
+    guid: bdb7cd393816db745ab9108b9831372e
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: d470c9292463e7549be8c6b33e682781
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 254c8d6004dcc0a4e96f418a9b8dcb33
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 2feb6bb91acc2c542a9f07d7e8151b70
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 1e47ba0bf9fa0f74c86eea9d149c00b4
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: 9ed678e93d4774f4d8a84e335cd02466
+  - enabled: 1
+    path: Assets/Scenes/Level 6.unity
+    guid: 83f888e649aa2ad45b79f22c0c3911fc
+  - enabled: 1
+    path: Assets/Scenes/Credits Screen.unity
+    guid: c7cf2862a4777894a820944dc525d92e
+  - enabled: 1
+    path: Assets/Scenes/Options Screen.unity
+    guid: e84382b809870de4688fc8f4de883e2e
+  - enabled: 1
+    path: Assets/Scenes/Select Stage Screen.unity
+    guid: d0ee65f6a73b7244a9cdf4f09fadb9ee
+  m_configObjects: {}
