@@ -2,15 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MusicPlayer : MonoBehaviour
+public class MusicPlayer : Singleton
 {
-    AudioSource audioSource;
-
-    void Start()
-    {
-        DontDestroyOnLoad(this);
-        audioSource = GetComponent<AudioSource>();
-    }
+    [SerializeField] AudioSource audioSource;
 
     void Update()
     {
