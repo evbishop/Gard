@@ -33,8 +33,7 @@ public class PlayerPrefsController : MonoBehaviour
     {
         if (volume >= MIN_VOLUME && volume <= MAX_VOLUME)
             PlayerPrefs.SetFloat(MASTER_VOLUME_KEY, volume);
-        else
-            Debug.LogError("Master volume is out of range");
+        else Debug.LogError("Master volume is out of range");
     }
 
     public static float GetMasterVolume()
@@ -46,8 +45,7 @@ public class PlayerPrefsController : MonoBehaviour
     {
         if (volume >= MIN_VOLUME && volume <= MAX_VOLUME)
             PlayerPrefs.SetFloat(SOUND_VOLUME_KEY, volume);
-        else
-            Debug.LogError("Sound volume is out of range");
+        else Debug.LogError("Sound volume is out of range");
     }
 
     public static float GetSoundVolume()
@@ -69,8 +67,7 @@ public class PlayerPrefsController : MonoBehaviour
     {
         if (difficulty >= MIN_DIFFICULTY && difficulty <= MAX_DIFFICULTY)
             PlayerPrefs.SetInt(DIFFICULTY_KEY, difficulty);
-        else
-            Debug.LogError("Difficulty setting is out of range");
+        else Debug.LogError("Difficulty setting is out of range");
     }
 
     public static int GetDifficulty()

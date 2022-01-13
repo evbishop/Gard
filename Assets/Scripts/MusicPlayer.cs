@@ -10,11 +10,10 @@ public class MusicPlayer : MonoBehaviour
     {
         DontDestroyOnLoad(this);
         audioSource = GetComponent<AudioSource>();
-        audioSource.volume = PlayerPrefsController.GetMasterVolume();
     }
 
-    public void SetVolume(float volume)
+    void Update()
     {
-        audioSource.volume = volume;
+        audioSource.volume = PlayerPrefsController.GetMasterVolume();
     }
 }

@@ -18,15 +18,7 @@ public class OptionsController : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
-        {
-            SaveAndExit();
-        }
-        var musicPlayer = FindObjectOfType<MusicPlayer>();
-        if (musicPlayer)
-            musicPlayer.SetVolume(volumeSlider.value);
-        else
-            Debug.LogWarning("No music player found");
+        if (Input.GetKeyDown(KeyCode.Escape)) SaveAndExit();
     }
 
     public void SaveAndExit()
