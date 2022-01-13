@@ -19,6 +19,8 @@ public class OptionsController : MonoBehaviour
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape)) SaveAndExit();
+        var musicPlayer = FindObjectOfType<MusicPlayer>();
+        if (musicPlayer) musicPlayer.SetVolume(volumeSlider.value);
     }
 
     public void SaveAndExit()

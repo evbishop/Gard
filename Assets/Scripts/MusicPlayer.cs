@@ -6,8 +6,13 @@ public class MusicPlayer : Singleton
 {
     [SerializeField] AudioSource audioSource;
 
-    void Update()
+    void Start()
     {
         audioSource.volume = PlayerPrefsController.GetMasterVolume();
+    }
+
+    public void SetVolume(float volume)
+    {
+        audioSource.volume = volume;
     }
 }
