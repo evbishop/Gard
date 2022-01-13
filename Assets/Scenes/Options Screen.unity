@@ -550,6 +550,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
+    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -612,11 +613,11 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 41ac8708b07d79c46bc7035e870badc0, type: 3}
-    m_FontSize: 173
+    m_Font: {fileID: 12800000, guid: f189b8c54bcb2064197e867caa779768, type: 3}
+    m_FontSize: 70
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 7
     m_MaxSize: 173
     m_Alignment: 3
     m_AlignByGeometry: 0
@@ -686,6 +687,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
+    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -863,8 +865,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 41ac8708b07d79c46bc7035e870badc0, type: 3}
-    m_FontSize: 130
+    m_Font: {fileID: 12800000, guid: f189b8c54bcb2064197e867caa779768, type: 3}
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -937,6 +939,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
+    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -1212,6 +1215,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
+    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -1282,8 +1286,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 304.90002, y: -93}
-  m_SizeDelta: {x: 498.2865, y: 210.22906}
+  m_AnchoredPosition: {x: 304.90002, y: -99.057}
+  m_SizeDelta: {x: 498.2865, y: 198.11}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1105115987
 MonoBehaviour:
@@ -1306,11 +1310,11 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 41ac8708b07d79c46bc7035e870badc0, type: 3}
-    m_FontSize: 173
+    m_Font: {fileID: 12800000, guid: f189b8c54bcb2064197e867caa779768, type: 3}
+    m_FontSize: 70
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 7
     m_MaxSize: 173
     m_Alignment: 3
     m_AlignByGeometry: 0
@@ -1513,7 +1517,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 735, y: 105.369995}
+  m_AnchoredPosition: {x: 1014, y: 105.109985}
   m_SizeDelta: {x: 585.9253, y: 210.22906}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1248409456
@@ -1530,6 +1534,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
+    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -1592,13 +1597,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 41ac8708b07d79c46bc7035e870badc0, type: 3}
-    m_FontSize: 173
+    m_Font: {fileID: 12800000, guid: f189b8c54bcb2064197e867caa779768, type: 3}
+    m_FontSize: 70
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 7
     m_MaxSize: 173
-    m_Alignment: 3
+    m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
@@ -1671,6 +1676,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
 --- !u!223 &1258482441
 Canvas:
   m_ObjectHideFlags: 0
@@ -1779,8 +1785,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 41ac8708b07d79c46bc7035e870badc0, type: 3}
-    m_FontSize: 130
+    m_Font: {fileID: 12800000, guid: f189b8c54bcb2064197e867caa779768, type: 3}
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -1925,6 +1931,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6203649581111358408, guid: 1584375d1afbd724d96c5ff03886778a,
         type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203649581111358408, guid: 1584375d1afbd724d96c5ff03886778a,
+        type: 3}
       propertyPath: m_LocalPosition.x
       value: 305.1186
       objectReference: {fileID: 0}
@@ -1940,6 +1951,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6203649581111358408, guid: 1584375d1afbd724d96c5ff03886778a,
         type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203649581111358408, guid: 1584375d1afbd724d96c5ff03886778a,
+        type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
@@ -1952,16 +1968,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6203649581111358408, guid: 1584375d1afbd724d96c5ff03886778a,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6203649581111358408, guid: 1584375d1afbd724d96c5ff03886778a,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6203649581111358408, guid: 1584375d1afbd724d96c5ff03886778a,
         type: 3}
@@ -2197,8 +2203,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 41ac8708b07d79c46bc7035e870badc0, type: 3}
-    m_FontSize: 130
+    m_Font: {fileID: 12800000, guid: f189b8c54bcb2064197e867caa779768, type: 3}
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -2293,19 +2299,24 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1050864890857434552, guid: 326c4774f14a9ed4590431e30f165daa,
         type: 3}
-      propertyPath: volumeSlider
-      value: 
-      objectReference: {fileID: 567868610}
-    - target: {fileID: 1050864890857434552, guid: 326c4774f14a9ed4590431e30f165daa,
-        type: 3}
       propertyPath: soundSlider
       value: 
       objectReference: {fileID: 392657860}
     - target: {fileID: 1050864890857434552, guid: 326c4774f14a9ed4590431e30f165daa,
         type: 3}
+      propertyPath: volumeSlider
+      value: 
+      objectReference: {fileID: 567868610}
+    - target: {fileID: 1050864890857434552, guid: 326c4774f14a9ed4590431e30f165daa,
+        type: 3}
       propertyPath: difficultySlider
       value: 
       objectReference: {fileID: 990048591}
+    - target: {fileID: 1050864890857434553, guid: 326c4774f14a9ed4590431e30f165daa,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 1050864890857434553, guid: 326c4774f14a9ed4590431e30f165daa,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2323,6 +2334,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1050864890857434553, guid: 326c4774f14a9ed4590431e30f165daa,
         type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1050864890857434553, guid: 326c4774f14a9ed4590431e30f165daa,
+        type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
@@ -2335,16 +2351,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1050864890857434553, guid: 326c4774f14a9ed4590431e30f165daa,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1050864890857434553, guid: 326c4774f14a9ed4590431e30f165daa,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 1050864890857434553, guid: 326c4774f14a9ed4590431e30f165daa,
         type: 3}
