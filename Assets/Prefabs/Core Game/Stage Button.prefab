@@ -34,8 +34,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 191.77, y: 0.000021935}
-  m_SizeDelta: {x: 383.54767, y: 320.4284}
+  m_AnchoredPosition: {x: 191.77, y: -0.00076771}
+  m_SizeDelta: {x: 383.54, y: 269.06}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8301581382694065426
 CanvasRenderer:
@@ -60,13 +60,14 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 0.7294118, g: 0.7294118, b: 0.7294118, a: 1}
   m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 41ac8708b07d79c46bc7035e870badc0, type: 3}
-    m_FontSize: 300
+    m_Font: {fileID: 12800000, guid: f189b8c54bcb2064197e867caa779768, type: 3}
+    m_FontSize: 200
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -140,6 +141,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -168,6 +170,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
+    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -199,6 +202,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: -4916582320821030503, guid: 1584375d1afbd724d96c5ff03886778a,
           type: 3}
+        m_TargetAssemblyTypeName: 
         m_MethodName: LoadScene
         m_Mode: 5
         m_Arguments:
